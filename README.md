@@ -10,7 +10,7 @@ Follow these instructions to set up and run the project.
 
 #### Prerequisites
 
-- Node.js (version > 20) and npm installed on your machine.
+-   Node.js (version > 20) and npm installed on your machine.
 
 #### Steps
 
@@ -20,5 +20,7 @@ Follow these instructions to set up and run the project.
 
 ### Submission
 
-- Ensure your code is clean, well-documented, and follows best practices.
-- Submit the project repository link and any additional notes in the README.md.
+-   Ensure your code is clean, well-documented, and follows best practices.
+-   Submit the project repository link and any additional notes in the README.md.
+
+## 공 낙하 실험
